@@ -1,4 +1,4 @@
 # About me
 
-- 🔭 I’m currently working on data analysis in travel
-- 🌱 I’m currently learning R
+- 🔭 Working on data analysis in travel
+- 🌱 Currently learning Python, R and SQL
